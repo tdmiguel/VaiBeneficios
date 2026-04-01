@@ -1,0 +1,5 @@
+{
+  "name": "Portal de Gestão de Benefícios",
+  "description": "Painel administrativo completo para criação, configuração e gerenciamento de benefícios e categorias de usuários.",
+  "requestFramePermissions": []
+}
